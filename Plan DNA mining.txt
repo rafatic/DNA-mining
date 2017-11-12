@@ -1,0 +1,50 @@
+Plan DNA mining
+Plan projet DNA Mining
+
+Approches possibles
+	- Reconnaissance de TIS dans une sequence
+	- détection de gênes liés au syndrome de Brugada Brs
+
+Introduction à l'ADN
+	Définition rapîde
+	Explication d'un génôme
+	Expliquer en quoi les datasets d'ADN sont rares
+	Expliquer la difficulté de travailler sur ces Dataset
+
+Introduction de l'application choisie
+	Détection de gênes liés au syndrome de Brugada Brs
+	OU
+	Reconnaissance de séquences TIS.
+
+	Dans les deux cas, on a accès à une comparaison de résultats.
+
+Selection d'attributs
+	Utilisation de réseaux de neurones
+		Utile car permet de comprendre quels éléments sont cruciaux
+		Première étape de la reconnaissance des attributs ayant de la valeur
+
+	K-means
+
+	K-grams
+
+Algorithmes utilisés
+	C4.5
+	SVM
+	ARB classifiers
+	KNN
+	...
+
+Expérimentation sur Weka
+	Choisir un cas d'études et un dataset
+	Exécution de plusieurs algorithmes
+
+
+Comparaison des résultats.
+	Comparaison entre notre expérimentation et les résultats des publications
+	Etude des résultats sur plusieurs problèmes ?
+		Peut être interessant de démontrer que toutes les problématiques liées à l'ADN mining ne sont pas résovable de la même manière
+
+
+Conclusion
+	
+
